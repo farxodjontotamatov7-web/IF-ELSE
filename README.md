@@ -1,2 +1,2 @@
 # IF-ELSE
-Bu repositoriesda siz if va else bilan tanishasiz
+Bu repositoryda siz if va else bilan tanishasiz
